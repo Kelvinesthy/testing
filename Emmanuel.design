@@ -1,0 +1,118 @@
+<!doctype html><html><head><style type="text/css" id="dcoder_stylesheet">
+body{
+    background-color: #ffffff;
+}
+.container{
+	border: 1px double #000000;
+	padding-left: 10px;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+}
+.softasalways{
+	border: 1px solid red;
+	position: absolute; left: 3px; top: 20px;
+	width: 120px;
+	height: 150px;
+
+}
+h4{
+	font-size: 20px;
+	font-family: italix;
+}
+h3{
+	font-size: 17px;
+}
+.grab{
+	text-align: center;
+	background-color: #3333ff;
+	color: #ffffff;
+}
+h1{
+	font-weight: bold;
+}
+a:link{
+	color: red;
+}
+a:visited{
+	color: #000000;
+}
+a:hover{
+	color: #99ff99;
+}
+.right{
+	position: absolute; buttom: 20Px; right: 8px;
+}
+    </style></head><body>
+		<div class="grab">
+				<h1>Chinyerem Emmanuel</h1> 
+				<a href="www.kelvinesthy@gmail.com">Kelvinesthy@gmail.com</a>
+				<h2>08174529516</h2>
+				<h2>No 6 Thomas street Ebut metta West, Lagos</h2>
+		</div>
+		<div>
+			<img class="softasalways" src="https://res.cloudinary.com/softcode/image/upload/v1566570746/IMG_20181107_140554_2_o5ouek.jpg" alt="SoftCode">
+		</div>
+		
+		<div class="container">
+			<h4>Professional summary:</h4>
+			<p> A dedicated with adept knowledge on parasitic diseases and the various insect that aids in its transmission dealing with the spread and control of disease. Backed by a successful internship experience and knowledge of HIV testing, Microbiology and Malaria. </p>
+		</div>
+		
+		<div class="container">
+			<h4> Skills</h4>
+				<ul>
+					<li> Dedicated and efficient team member</li>
+					<li>Can work under pressure with little or no supervision</li>
+					<li>Good communicator</li>
+					<li>Microscopy expertise</li>
+					<li>Hardworking</li>
+					<li>Attention to details</li>
+				</ul>
+		</div>
+		
+		
+		<div class="container">
+			<div>
+				<h4>Work history: Intern</h4>
+				<h3>Lagos Univeristy Teaching Hospital(Malaria Department) Idi-Araba, Lagos</h3>
+					<ul>
+						<li>Assisted researcher in conducting microscopy on various blood slides for detection of various species of malaria parasite</li>
+						<li>Work on preparation of thick and thin slide for training of various training medical personnel</li>
+						<li>Farmiliar with the various antibodies each kit have and what malaria specie can be detected from it</li>
+					</ul>
+			</div>
+		
+		
+		<div>
+			<h3>Lagos Univeristy Teaching Hospital(Microbiology Department) Idi-Araba, Lagos</h3>
+				<ul>
+					<li>Assisted in inocultion of various microbes on vaious media</li>
+					<li>Customarily on testing various reactions of antibodies on microorganism</li>
+					<li>Handled specimen according to laboratory protocol</li>
+				</ul>
+		</div>
+		
+		<div>
+			<h3>Lagos Univeristy Teaching Hospital(Microbiology Department) Idi-Araba, Lagos</h3>
+				<ul>
+					<li>Assisted in the collection of blood from patient in the sample collecting unit and check for positivity or negativity using th respective ki</li>
+					<li>Handled specimen according to laboratory protocol using the respective rpm during entrifuging of samples for the PCR unit</li>
+					<li>Conducted test in the following respective unit [Chemsitry(ALT and AST), (Creatinine and urea), Cd4 count, Hematology unit, PCR unit(Polynerse chain reaction)]regularly.</li>
+				</ul>
+			</div>
+		</div>
+		
+		
+		<div class="container">
+			<h4>Education:
+				<sp> Bsc Parasitology and Entomology</sp>
+				<sp class="right">2017<sp>
+			</sp></sp></h4>
+			<p><strong>Nnamdi Azikiwe University, Awka</strong></p><strong>
+		<div>
+	
+
+    
+    
+    </div></strong></div><script type="text/javascript" id="dcoder_script">alert("Hello Dcoder!")</script></body></html>
